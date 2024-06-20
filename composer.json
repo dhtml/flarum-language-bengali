@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "extra": {
     "flarum-extension": {
-      "title": "Bengali",
+      "title": "Bengali (বাংলা)",
       "category": "language",
       "info": {
         "website": "https://github.com/dhtml",
